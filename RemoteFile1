@@ -1,4 +1,8 @@
 I created Remote repository and added this first linefrom GIT hub
 Added second line from local
 Switched to enhancement and added third line
-Someone changed the GIT HUB File at the same time while  I changed at my local
+<<<<<<< HEAD
+Someone changed the GIT HUB File at the same time while  I changed at my local ss
+=======
+Someone did change GIT HUB FIle while I was changing at my local
+>>>>>>> 977a52f64258d1d9e6eabd8b1549634d9d37d537
